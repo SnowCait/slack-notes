@@ -1,3 +1,3 @@
 # Bolt
 
-- [Slack | Bolt](https://slack.dev/bolt/ja-jp/tutorial/hubot-migration)
+- [Slack | Bolt](https://slack.dev/bolt-js/ja-jp/tutorial/getting-started)
